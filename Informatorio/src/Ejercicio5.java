@@ -32,6 +32,7 @@ public class Ejercicio5 {
         br.close();
         obtenerEdadDeLosEmpleados(listaEmpleado);
         sueldoMaximoYMinimo(listaEmpleado);
+        letraDada(listaEmpleado);
         
     }
     public static class Empleado{
